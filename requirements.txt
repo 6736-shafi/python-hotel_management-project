@@ -1,0 +1,5 @@
+snowflake-connector-python==3.12.2p
+datetime
+logging
+smtplib
+re
